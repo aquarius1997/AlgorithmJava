@@ -1,6 +1,6 @@
 package Math;
 
-class Solution {
+class L2_N개의최소공배수 {
 
     /**
      * a 와 b의 최대공약수를 유클리드 호제법을 이용해 구한다
